@@ -24,7 +24,7 @@ As specified above, if the material is really really outdated, maybe because the
 
 ### Missing courses
 
-If some course is missing [click here](https://github.com/compengms/readme/issues/new) to report.
+If some course is missing [click here](https://github.com/compengms/courses/issues/new) to report.
 
 <details>
 <summary>✍🏻 List of courses</summary>
